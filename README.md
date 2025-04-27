@@ -1,1 +1,13 @@
 # gudang
+
+## Files
+- [Compressed](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiazFtMGdQV2x2OE5haXZQeXJxZjhtUHJmc2szemRCVDdMUVFQeFFLNlo2SE5qWG8rbWV0aVhRZk12Z085TDIwazBKYlovbEFickRqU29MeXpvTUJwNDk5SDJHZW9uOVMzWDZhSlF1U3VhRmNYeGVPd0RxVWVGYzBid1BvblpZK1d2Yjd6TUE9PSIsInMiOiJVV25zTDFzaG5pamZSazBoS1BUTFh3PT0iLCJpIjoiRHhabTlFZFNYVHhTRGpadCJ9)
+- [Axaxxa](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiN2ppYU5iK3dJVEJtSWJFdFBjb1lWejhnbjZXOE1pcitSVWxwY05zTk9sMitZWGtRNHN0RCt1ajZLQUgrRkNBM01TZzYyQ3Q0VU02UStRRXl6UTNvNWtsbGlwUzBvTzhzbG8zR29RUDNJYjZ0alM5MmluY2pxUT09IiwicyI6Ijh6Z3ZEc1M2bHhlSFhsUGVieFdLNmc9PSIsImkiOiJWcHhYR2ZVdWR5Zlh3cHlCIn0=)
+- [Taxa](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibGtjTmRqRWNwcE5sTE81UVNhRnp1bGFobzM5QzRRSnpta0JHL2hnbmpEMno3TGZmRW91WXlXWG5nYi9hREFwUHJ5NW5RSFZtMkR4dlg5MlJqWGlKUjhNWVVWdDZhZXhjdldHSUo0eWprOExZNjdrVXZYUUEzZz09IiwicyI6ImZxZ2RJTkJlYTN4TWtZQk15TlJOQkE9PSIsImkiOiJJMUNnNkJzNjQxSzFQR3p1In0=)
+
+## Cloud Drive
+- [FebBox](https://www.febbox.com/)
+- [ProfitDrive](https://pd.heracle.net/)
+
+## Usefull Links
+- [Link Lock](https://jstrieb.github.io/link-lock/create/)
